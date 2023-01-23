@@ -3,13 +3,23 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.3",
     "openai": "^3.1.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisventurae/test1-openai.git"
+  },
+  "author": "Luis Ventura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisventurae/test1-openai/issues"
+  },
+  "homepage": "https://github.com/luisventurae/test1-openai#readme"
 }
