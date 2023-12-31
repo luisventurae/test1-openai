@@ -1,3 +1,7 @@
+Requisiitos
+
+* NodeJs >= 16
+
 Para ejecutarlo usar:
 > npm run start
 
